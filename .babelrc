@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    ["module:style9-jsx-prop", {
+      "propName": "css",
+      "importPath": "style9"
+    }]
+  ]
+}
